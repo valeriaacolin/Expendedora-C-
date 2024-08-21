@@ -11,7 +11,7 @@ Para ejecutar, abra el .cs
 ![imagen exp](https://d379p6s0o40qsz.cloudfront.net/2023-07/Maquina_Combo_Frente.png?VersionId=FZauAqTQoP7biALm4Q78.6CwzouiYZaY)
 
 
-## DESCRIPCIÓN DEL CÓDIGO
+##CÓDIGO
 ```
 using System;
 using System.Threading;
